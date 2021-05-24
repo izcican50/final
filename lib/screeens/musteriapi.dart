@@ -10,7 +10,7 @@ class MusteriApi extends StatefulWidget{
     return MusteriApiState ();
   }
 
-
+//açıklama satırı ekledim
 }
 
 class MusteriApiState extends State {
